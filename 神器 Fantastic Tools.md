@@ -1,12 +1,47 @@
-- 办公
-    - 做笔记 Take Notes ノートを取る
+- Windows使用相关
+    - [Startisback](http://startisback.com/)
+        - 任务栏完全透明、自定义你的开始图标、恢复win7的开始菜单
+- 下载　|　Download　|　ダウンロード
+    - Internet Download Manager (IDM)：全平台　|　F
+- 办公　|　Office　|　仕事
+    - 做笔记　|　Take Notes　|　メモする
         - [Dynalist.io](Dynalist.io)
             - WorkFlowy的加强版
                 - 优点：实时预览，树形目录
-    - PDF处理 PDF Proceessing PDF処理
+    - PDF处理　|　PDF Proceessing　|　PDF処理
         - [smallpdf.com/cn](smallpdf.com/cn)
             - PDF压缩、转换、加解密、合并分割
+    - Excel
+        - PowerMap
+            - ![三维地图](https://pic4.zhimg.com/v2-931287154abe9b092fab288cd69af2bb_b.jpg), ![PowerMap](https://pic2.zhimg.com/v2-420589a1125d4b79e69e7d92b6336905_b.jpg)
+    - PPT
+        - PPT辅助
+            - [iSlide](www.islide.cc)
+        - PPT压缩
+            - PPTMinimizer
+    - 素材
+        - ![文字云图生成](https://wordart.com/static/img/gallery/aoi7bifdb4k7.png)：[wordart.com](wordart.com)
+        - officeplus官方模板素材：[http://www.officeplus.cn/Template/Home.shtml](http://www.officeplus.cn/Template/Home.shtml)
+        - 阿里巴巴图标素材库：[www.iconfont.cn](http://www.iconfont.cn/)
+            - 数量大，种类全，可自由变换颜色，可选择PNG和AI两种格式。
+- 自律
+    - 番茄工作法：
+    - Pomodairo
+- 图像
+    - 图片放大　|　Zoom In Photo　|　拡大写真
+        - PHOTOZOOM PRO：
+- 搜索 
+    - 历史网页的样子：
+        - [www.waybackmachine.org](www.waybackmachine.org)
+- 购物
+- 远程
+    - 电脑控制手机：
+        - [vysor](http://pan.baidu.com/s/1c68V7K 密码：ggdo) (chrome-app)
+    - 手机控制电脑：
+        - Teamviewer
+- 录屏
+    - gifcam
 - 参考资料 References 参考資料
     - [知乎-有哪些软件堪称「神器」，却不为大众所知？](https://www.zhihu.com/question/36546814)
 - 备注
-    - 本文档用dynalist.io编辑，树状结构。为了维护多语言，我的策略是上面的层只用“词”，多语言翻译在同一节点内；最底层用“句子”，多语言翻译在兄弟节点内
+    - 本文档用dynalist.io编辑，树状结构。为了维护多语言，上面的层只用“词”描述，多语言翻译位于同一节点内；最底层用“句子”，多语言翻译在兄弟节点内。
