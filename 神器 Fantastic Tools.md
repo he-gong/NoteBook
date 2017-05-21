@@ -1,8 +1,20 @@
-- Windows使用相关
-    - [Startisback](http://startisback.com/)
-        - 任务栏完全透明、自定义你的开始图标、恢复win7的开始菜单
+- Windows自带功能
+    - txt文本预览
+        - 打开文件夹，选中文件，点击“查看”中的“预览窗格”即可预览文本内容
+- Windows辅助工具
+    - 任务栏完全透明：[Startisback](http://startisback.com/)
+        - 自定义你的开始图标、恢复win7的开始菜单
+    - Mac风格停靠：[dock.exe](http://pan.baidu.com/s/1mg90v4s)
+    - 文件名搜索：[Everything](http://www.voidtools.com/)：[原理](https://www.zhihu.com/question/20549498/answer/47017416)
+    - 重复文件删除：[Duplicate Cleaner](https://www.digitalvolcano.co.uk/duplicatecleaner.html)：
+    - 系统优化：Defraggler
+    - 磁盘碎片整理：
+    - 文件恢复工具：Recuva
+    - 文件批量重命名：AntRenamer
+    - 水树奈奈配音的Windows系统提示音：[窓辺ななみ主题](http://pan.baidu.com/s/1qWMjy00)
 - 下载　|　Download　|　ダウンロード
-    - Internet Download Manager (IDM)：全平台　|　F
+    - Internet Download Manager (IDM)
+    - Eagleget：下载百度网盘时比IDM更快
 - 办公　|　Office　|　仕事
     - 做笔记　|　Take Notes　|　メモする
         - [Dynalist.io](Dynalist.io)
@@ -16,11 +28,16 @@
             - ![三维地图](https://pic4.zhimg.com/v2-931287154abe9b092fab288cd69af2bb_b.jpg), ![PowerMap](https://pic2.zhimg.com/v2-420589a1125d4b79e69e7d92b6336905_b.jpg)
     - PPT
         - PPT辅助
-            - [iSlide](www.islide.cc)
+            - 提高PPT效率：[iSlide.exe](www.islide.cc)
+            - 图片组合：
+                - ![Example1](https://pic2.zhimg.com/736896d39465522d750d0d4a74568891_b.png)，![Example2](https://pic3.zhimg.com/7fb1ed0e9f8a7dae4231da371600c8a2_b.png)
+            - [PPT遥控器](http://ppt.baidu.com/)
         - PPT压缩
             - PPTMinimizer
     - 素材
-        - ![文字云图生成](https://wordart.com/static/img/gallery/aoi7bifdb4k7.png)：[wordart.com](wordart.com)
+        - 配图搜索：[pixabay.com](pixabay.com)
+        - 文字云图生成：[wordart.com](wordart.com)
+            - ![Example](https://wordart.com/static/img/gallery/aoi7bifdb4k7.png)
         - officeplus官方模板素材：[http://www.officeplus.cn/Template/Home.shtml](http://www.officeplus.cn/Template/Home.shtml)
         - 阿里巴巴图标素材库：[www.iconfont.cn](http://www.iconfont.cn/)
             - 数量大，种类全，可自由变换颜色，可选择PNG和AI两种格式。
@@ -28,20 +45,29 @@
     - 番茄工作法：
     - Pomodairo
 - 图像
+    - 截图　|　Screenshot　|　スクリーンショット
+        - picpick
+            - ![example](https://pic4.zhimg.com/a92c7c07b97e5244ee6022e271cbb6cf_r.png)
     - 图片放大　|　Zoom In Photo　|　拡大写真
         - PHOTOZOOM PRO：
 - 搜索 
     - 历史网页的样子：
         - [www.waybackmachine.org](www.waybackmachine.org)
 - 购物
+- 健身
+    - iOS
+        - PushUps：练习俯卧撑用
+        - Six Pack：练腹肌用
 - 远程
     - 电脑控制手机：
         - [vysor](http://pan.baidu.com/s/1c68V7K 密码：ggdo) (chrome-app)
-    - 手机控制电脑：
-        - Teamviewer
+    - 手机控制电脑、电脑控制电脑：Teamviewer
+    - [向日葵-Windows电脑远程](http://sunlogin.oray.com/zh_CN/download/)
 - 录屏
     - gifcam
 - 参考资料 References 参考資料
     - [知乎-有哪些软件堪称「神器」，却不为大众所知？](https://www.zhihu.com/question/36546814)
+        - 微信公众号：PangMenZD
 - 备注
     - 本文档用dynalist.io编辑，树状结构。为了维护多语言，上面的层只用“词”描述，多语言翻译位于同一节点内；最底层用“句子”，多语言翻译在兄弟节点内。
+    - 在每一个分类下，如果一个功能有好几款软件实现，则先写功能名，后写软件名；反之，一个软件有好几个功能，那么先写软件名，后写功能名
