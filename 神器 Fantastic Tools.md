@@ -2,7 +2,7 @@
     - 做笔记 Take Notes ノートを取る
         - [Dynalist.io](Dynalist.io) : WorkFlowy的加强版
             - 优点：实时预览，树形目录
-    - PDF处理
+    - PDF处理 PDF Proceessing PDF処理
         - [smallpdf.com/cn](smallpdf.com/cn)：PDF压缩、转换、加解密、合并分割
 - 参考资料 References 参考資料
     - [知乎-有哪些软件堪称「神器」，却不为大众所知？](https://www.zhihu.com/question/36546814)
