@@ -1,24 +1,33 @@
+- 在线使用各种软件：
+    - [www.uzer.me](www.uzer.me)：office, PS ,AI, SPSS, MATLAB, GOOGLE
+        - 缺点：比较卡，有点鸡肋
 - 使用电脑辅助
     - Vimium.crx：用Vim键位浏览网页
         - [让你用 Chrome 上网快到想哭：Vimium](https://sspai.com/post/27723)
+    - Bandizip：压缩工具
 - Windows自带功能
     - txt文本预览
         - 打开文件夹，选中文件，点击“查看”中的“预览窗格”即可预览文本内容
 - Windows辅助工具
     - 任务栏完全透明、自定义你的开始图标、恢复win7的开始菜单：[Startisback](http://startisback.com/)
     - Mac风格停靠：[dock.exe](http://pan.baidu.com/s/1mg90v4s)
+    - clover，四叶草：
+        - 让windows多个任务窗口变成浏览器一样的标签窗口。而且和浏览器一样可以添加书签。工作狂人再也不用为桌面打开无数个窗口来回找而烦躁了。
     - 文件名搜索：[Everything.exe](http://www.voidtools.com/)：[原理](https://www.zhihu.com/question/20549498/answer/47017416)
     - 重复文件删除：[Duplicate Cleaner.exe](https://www.digitalvolcano.co.uk/duplicatecleaner.html)：
     - 系统优化：Defraggler.exe
     - 磁盘碎片整理：
     - 文件恢复工具：Recuva.exe
     - 文件批量重命名：AntRenamer.exe
-    - 水树奈奈配音的Windows系统提示音：[窓辺ななみ主题.wav](http://pan.baidu.com/s/1qWMjy00)
-    - 桌面背景：steam的wallpaper.exe
-    - 浏览器广告过滤：[adsafe.exe](http://www.ad-safe.com/)
+    - 水树奈奈配音的Windows系统提示音：[窓辺ななみ主题.wav.zip](http://pan.baidu.com/s/1qWMjy00)
+    - 桌面背景：steam的wallpaper engine.exe
+    - 浏览器广告过滤：[净网大师adsafe.exe](http://www.ad-safe.com/)
+        - 
     - 软链接工具：[Junction v1.07.exe](https://technet.microsoft.com/en-us/sysinternals/bb896768.aspx)
 - Android辅助工具：
     - 性能功耗测试工具：Trepn Profiler
+    - 桌面工具：nova launcher
+    - 
 - 下载　|　Download　|　ダウンロード
     - Internet Download Manager (IDM)
     - Eagleget：下载百度网盘时比IDM更快
@@ -44,21 +53,34 @@
             - PPTMinimizer
     - 素材
         - 配图搜索：[pixabay.com](pixabay.com)
-        - 文字云图生成：[wordart.com](wordart.com)
+        - 文字云图生成：[wordart.com(又叫Tagul.com)](wordart.com)
             - ![Example](https://wordart.com/static/img/gallery/aoi7bifdb4k7.png)
         - officeplus官方模板素材：[http://www.officeplus.cn/Template/Home.shtml](http://www.officeplus.cn/Template/Home.shtml)
         - 阿里巴巴图标素材库：[www.iconfont.cn](http://www.iconfont.cn/)
             - 数量大，种类全，可自由变换颜色，可选择PNG和AI两种格式。
+    - 思维导图：百度脑图
+- 即时聊天
+    - Tim：QQ轻聊版
 - 自律
     - 番茄工作法：
     - Pomodairo
-    - 时间记录：[Toggl.all](github.com/toggl)
+    - 时间记录：[Toggl.all](github.com/toggl)，[savemytime.ipa](http://savemytime.co/)
+    - forest：让你不碰手机
 - 图像
     - 截图　|　Screenshot　|　スクリーンショット
         - picpick
             - ![example](https://pic4.zhimg.com/a92c7c07b97e5244ee6022e271cbb6cf_r.png)
     - 图片放大　|　Zoom In Photo　|　拡大写真
         - PHOTOZOOM PRO：
+    - 摄影
+        - [Proshot.all](https://www.zhihu.com/question/36546814/answer/171605978)
+    - 扫描　|　Scanner
+        - CamScanner Free.ios
+    - P图美颜
+        - Facetune
+        - Snow
+    - 手绘
+        - [MediBang Painting.exe/dmg](medibangpaint.com/en/pc/)
 - 视频
     - 三维建模：ZBrush
         - 下载：http://www.gfxcamp.com/zbrush-v4r6/（4R6版本）
@@ -76,9 +98,8 @@
         - [www.waybackmachine.org](www.waybackmachine.org)
 - 购物
 - 健身
-    - iOS
-        - PushUps：练习俯卧撑用
-        - Six Pack：练腹肌用
+    - Six Pack.ipa：练腹肌用
+    - PushUps.ipa：练习俯卧撑用
 - 远程
     - 电脑控制手机：[vysor.crx](http://pan.baidu.com/s/1c68V7K 密码：ggdo) 
     - 手机控制电脑、电脑控制电脑：Teamviewer
@@ -88,6 +109,17 @@
     - 录游戏：Fraps，录完文件大
     - 录屏幕：Camtasia Studio 
     - 要求不高：国产的Apowersoft录屏王
+- エロ：
+    - 看本子：[哔咔漫画.apk/ipa](https://www.picacomic.com/)
+    - 看磁力：旗鱼影视.apk
+- VPN：
+    - 回国vpn：Transocks.ipa
+- 学习：
+    - 在线教育
+    - 学英语
+        - [vocabulary.com/.ipa](vocabulary.com)
+- 生活：
+    - 形色.apk/ipa：赏花识别
 - 参考资料 References 参考資料
     - [知乎-有哪些软件堪称「神器」，却不为大众所知？](https://www.zhihu.com/question/36546814)
         - 对知乎回答，点下面的“编辑于”，就能打开这个回答的链接
@@ -95,8 +127,9 @@
         - Gmail：https://www.zhihu.com/question/36546814/answer/104903904
         - https://www.zhihu.com/question/36546814/answer/69161024
         - 70个：https://www.zhihu.com/question/36546814/answer/69696514
+        - 治疗心理疾病：https://www.zhihu.com/question/36546814/answer/169005245
         - 
 - 备注
-    - .exe表示windows平台，.crx表示浏览器插件，.all表示全平台，.com/.io等等表示在线使用
+    - .exe表示windows平台，.dmg表示mac平台，.crx表示浏览器插件，.apk表示android应用，ipa表示苹果手机，.all表示全平台，.com/.io等等表示在线使用
     - 本文档用dynalist.io编辑，树状结构。为了维护多语言，上面的层只用“词”描述，多语言翻译位于同一节点内；最底层用“句子”，多语言翻译在兄弟节点内。
     - 在每一个分类下，如果一个功能有好几款软件实现，则先写功能名，后写软件名；反之，一个软件有好几个功能，那么先写软件名，后写功能名
